@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# This is SkuddLogg 🚀
+# Hello There - This is SkuddLogg 🚀
 
 <!--
 
